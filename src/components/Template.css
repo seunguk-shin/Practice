@@ -1,0 +1,20 @@
+.user-management-template {
+  background: black;
+  width: 1025px;
+  height: 1000px;
+  margin: 0 auto;
+}
+
+.input {
+  background-color: white;
+  float: left;
+  width: 49%;
+  height: 100%;
+}
+
+.user-list {
+  background-color: white;
+  float: right;
+  width: 49%;
+  height: 100%;
+}
