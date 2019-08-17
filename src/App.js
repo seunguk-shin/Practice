@@ -17,7 +17,7 @@ class App extends Component {
       email: "example_kim@react.com",
       name: "김예제",
       phone: "010-1234-5678",
-      addr: "seoul"
+      addr: "Seoul"
     }],
     msg: []
   }
